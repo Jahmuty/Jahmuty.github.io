@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+
+
+	<head>
+	<style>
+		footer {
+			text-align: center;
+			padding: 20px;
+			background-color: rgb(58, 58, 58);
+			color: rgb(255, 165, 0);
+}
+		a:link {
+		color: rgb(255, 0, 0);
+}
+		a:visited {
+		color: rgb(255, 25, 100);
+}
+		a:hover {
+		color: black;
+}
+		 header {
+			text-align: center;
+			padding: 10px;
+			background-color: rgb(90, 90, 90);
+			color: rgb(255, 165, 0);
+			font-size: 17px;
+			
+}
+		
+		</style>
+
+		<title> The Wonderfull Power Behind PCS! </title>
+		<meta name="Home" content="Information regarding Pc's"/>
+		<link href="HomePage.css" type="text/css" rel="stylesheet" />
+
+	</head>
+		<body style="background-color:lightgray">
+		<div class="header">
+			
+				<center><img src=C:\Users\PC\Desktop\webpage\pics\logo.jpg></center>
+				<center>	 
+				<h1 id="BasicInfo">COMPUTER ACCESORIES</h1>
+				<nav>
+					
+					 
+					<table class="center1">
+						<tr>
+							<td><a href="index.html">HOME</a></td>
+							<td><a href="MyBuildsPage.html">Built Pc's</a></td>
+							<td><a href="Peripherals.html">ACCESORIES</a></td>
+							</center>
+
+						</tr>
+					</table>
+					</div>
+				</nav>
+			</header>
+			
+			<center><p id = "homePageIntro">In This Page You Shall Learn The Elegance Behind A Peripherals</p></center>
+			</header>
+			<section id = "location">
+				<header>
+					<h2>Introduction To Computer Peripherals!</h2>
+				</header>
+				<p><center>Computer Peripherals are one of the most manafuctered and utilized products as of the last 2 years! with Over 800 Million units sold of total peripherals</center></p>
+			</section>
+		</div>
+		<div>
+			<section id = "Accesories">
+				<header>    roccat.com/collections/gaming-headsets
+					<h2>Peripheral names and info!</h2>
+				</header>
+				<ul id = "HardwareList">
+					<li><b>Mouse</b></li>
+					<p>A Mouse Is A Device That Can Be used internally meaning that you could have it built-in a laptop for example or you can use it externally.
+				As many High-End and Medium-End manafactures make them for external use. These devices are capable of high-quality and high-speed Tracing!.</p>
+				
+				<p>places to get Mice!  <td><a href="https://www.razer.com/store/gaming-mice">  Mice! </a></td></p>
+				
+					<li><b>Keyboard</b></li>
+					<p>A Keyboard is just like the mouse it can be internally equipped for laptops and can be used externally for laptops and Desktop pc's these days the keyboard 
+					is capable of fast detection as it is needed for the gaming world as well as the typer community .</p>
+					
+					<p>Best place to get a Keyboard!  <td><a href="https://steelseries.com/gaming-keyboards">  Keyboards!  </a></td></p>
+					
+					<li><b>Headphones</b></li>
+					<p>Audio devices have come far from what they used to be in the past, before they were barely capable of replaying the audio you wanted to listen to 
+					and they weighed around 4.5 Kilograms that is like having a Air Fryer on your shoulders for hours upon hours! However, Today these devices are reactive and can 
+					even handle 7D audio which gives you the feeling of being in a concert while listening to music or hearing someone walking from your right to your left.</p>
+					
+						<p>Best place to get a Headset<td><a href="https://www.roccat.com/collections/gaming-headsets">  Headphones!</a></td></p>
+					
+					<li><b>Speakers</b></li>
+					<p>As I mentioned in the previous passage Audio devices were at the worst point in comparison to other peripherals created. However, these days speakers can 
+					be as good as concert like speakers for more than HALF THE PRICE!!!</p>
+
+					<p>Best place to get High-Quality Speakers <td><a href="https://international.kef.com/products/ls50-wireless-2">  Speakers!  </a></td></p>
+
+
+
+					
+
+				</ul>
+			</section>
+			
+	</body>
+	</div>
+	<footer id="contactEmail">
+				<address>For any questions, please feel free to contact me on <a href = "mailto: a.shaban@bub.edu.bh"> This E-mail! </a></address>
+	<nav id="Navigation2">
+		<ul>
+			
+			<a href="index.html">HOME</a>
+			<a href="MyBuildsPage.html">Built Pc's</a>
+			<a href="PeripheralsPage.html">ACCESORIES</a>
+			
+			<p><br>&copy: Ahmed Shaban Copyright 2021</br></p>
+		</ul>
+	</nav>
+	</footer>
+</html>

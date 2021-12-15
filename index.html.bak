@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+
+
+	<head>
+	<style>
+		footer {
+			text-align: center;
+			padding: 20px;
+			background-color: rgb(58, 58, 58);
+			color: rgb(255, 165, 0);
+}
+		a:link {
+		color: rgb(255, 0, 0);
+}
+		a:visited {
+		color: rgb(255, 25, 100);
+}
+		a:hover {
+		color: black;
+}
+		 header {
+			text-align: center;
+			padding: 10px;
+			background-color: rgb(90, 90, 90);
+			color: rgb(255, 165, 0);
+			font-size: 17px;
+			
+}
+		
+		</style>
+
+		<title> The Wonderfull Power Behind PCS! </title>
+		<meta name="Home" content="Information regarding Pc's"/>
+		<link href="HomePage.css" type="text/css" rel="stylesheet" />
+
+	</head>
+		<body style="background-color:lightgray">
+		<div class="header">
+			
+				<center><img src=C:\Users\PC\Desktop\webpage\pics\logo.jpg></center>
+				<center>	 
+				<h1 id="BasicInfo">Computer Hardware</h1>
+				<nav>
+					
+					 
+					<table class="center1">
+						<tr>
+							<td><a href="index.html">HOME</a></td>
+							<td><a href="MyBuildsPage.html">Built Pc's</a></td>
+							<td><a href="Peripherals.html">ACCESORIES</a></td>
+							</center>
+
+						</tr>
+					</table>
+					</div>
+				</nav>
+			</header>
+			
+			<center><p id = "homePageIntro">In this website you shall explore the beauty and simplicity behind computers</p></center>
+			</header>
+			<section id = "location">
+				<header>
+					<h2>Introduction To Basic computer Hardware!</h2>
+				</header>
+				<p> Hardware is one of those things that is essential and available EVERYWHERE!! 
+				However, Computer hardware can differ from other types of hardware. 
+				As it is made to be easily accesable and easily fitted. this ensures that all interested costumers are able to easily build their own Computers.
+				With that being said these are most of the hardware you can find and will need to build a functional Computer. <a href=#Hardware>Click Me!</a></p>
+			</section>
+		</div>
+		<div>
+			<section id = "Hardware">
+				<header>
+					<h2>Hardware names and info!</h2>
+				</header>
+				<ul id = "HardwareList">
+					<li><b>Motherboard</b></li>
+					<p>A motherboard is one of the most important parts for a pc. 
+					As the name suggests it is the motherboard meaning in a simple form that all other components Such as the Processor and the ram are connected to it. 
+					It also has the wiring to connect and give appropriate amount of power needed.</p>
+
+					<li><b>GPU</b></li>
+					<p>A GPU or “Graphics Processing unit” is an optional component that can be used for graphical processing. 
+					These units are usually found in high-end gaming pcs or in rigs made for precise high level photo editing as well as movie making. 
+					However, they are not needed in a computer if the user is using it for other professions such as Programming, Accounting and Computing.</p>
+					
+					<li><b>CPU</b></li>
+					<p>The CPU or “Central Processing Unit” is what takes control of all computer process or tasks that are occurring at the same time.</p>
+
+					<li><b>PSU</b></li>
+					<p>Also known as the “Power Supply Unit” is where the Electricity is directly fed into. 
+					It also powers the entirety of the pc while the CPU and motherboard decide the amount needed and where it is going.</p>
+
+					<li><b>RAM</b></li>
+					<p>The RAM or “Random Access Memory” is used as a temporary or short-term memory, which all software’s and tasks can utilize whenever they need it.</p>
+
+					<li><b>Case</b></li>
+					<p>Well, as the name suggests. The case is where you will install all these components in, and it comes in various shapes, sizes and colors.</p>
+
+					<li><b>Storage</b></li>
+					<p>There are multiple ways an individual can store his data in. 
+					one of them being an HDD or “Hard Disk Drive” which can usually reach up to 20TB of space, while an SSD or “Solid State Drive” can reach up to 10TB. 
+					SSDs are the newest form of storage and they are significantly faster.
+					 Therefore, companies are aiming to increase the storage capacity of these drives and increase their speed as well.</p>
+
+					<li><b>Cooling</b></li>
+					<p>As the name suggests this is an extremely important component for a computer as the computer would fail to execute tasks and would shutdown in the case of overheating. 
+					For cooling an individual can use either water cooling for both the CPU and GPU or just for the CPU. 
+					They can also use an AIO or “All in one cooling” which is a simpler form of custom water cooling and is usually a lot easier to setup. 
+					And finally, the most common type of cooling is the fan cooling. Which is connecting a fan to the CPU and cooling it that way.</p>
+
+					
+
+				</ul>
+			</section>
+			<section id = "Facts!">
+				<header>
+					<h2>DID YOU KNOW?</h2>
+				</header>
+				<p> Did You Know is a section that you my dear reader will learn a couple of interesting and fun facts about Computers!</p>
+					
+				<ol>
+					<li> Computers were first introduced to the world back in 1936 which was also made from wood! </li>
+					<li> The first electronic computer weighed around 27 Tons making it the heaviest functional computer TO THIS DAY! </li>
+					<li> There are more than 5000 Viruses, Malwares, Ransomware and Other types of malicious actors made nearly every Month! </li>
+					<li> The first 1 Gigabyte harddisk was made back in 1980 which weighed around 250KG and was worth nearly £31,000  </li>
+					<li> The USA's nuclear tipped missle had a computer password of 00000000 for EIGHT YEARS STRAIGHT! </li>
+					<li> Finally, around 90% of the entire world's currency exists on computers meaning that the world has only 10% of tangible cash! </li>
+				</ol>
+			</section>
+	</body>
+	</div>
+	<footer id="contactEmail">
+				<address>For any questions, please feel free to contact me on <a href = "mailto: a.shaban@bub.edu.bh"> This E-mail! </a></address>
+	<nav id="Navigation2">
+		<ul>
+			
+			<a href="index.html">HOME</a>
+			<a href="MyBuildsPage.html">Built Pc's</a>
+			<a href="PeripheralsPage.html">ACCESORIES</a>
+			
+			<p><br>&copy: Ahmed Shaban Copyright 2021</br></p>
+		</ul>
+	</nav>
+	</footer>
+</html>
